@@ -1,2 +1,2 @@
 # Interactive-Text-Analysis-NLP
-An interactive NLP project for text analysis using Python. Includes text preprocessing, word frequency analysis, n-grams, word clouds, and interactive visualizations using Plotly to extract meaningful insights from textual data.
+An interactive NLP project for text analysis using Python. The repository includes the core analysis notebook along with an exported HTML file containing the full code. Since interactive visualizations may not render correctly on GitHub, a PDF version with all plots and visual outputs has been provided for easy viewing. The project covers text preprocessing, word frequency analysis, n-grams, word clouds, sentiment analysis, and other NLP insights.
